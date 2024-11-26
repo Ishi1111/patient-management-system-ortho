@@ -169,6 +169,8 @@ src/
 └── config/             # Config folder that contain configuration files for swagger & typeorm
 
 
+Note: It will look well formated in vscode.
+
 
 
 
